@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "YKwinyarut Test"
+title                    : "Kwinyarut Test"
 title_separator          : "-"
 name                     : &name "Kwinyarut"
 description              : &description "personal description"
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.JPG"
   name             : "KwinyarutP"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "The most beautiful gurl in this town"
+  location         : "Bangkok, TH"
+  employer         : "KMUTT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kwinyarut2546@gmail.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
