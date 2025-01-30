@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "This is Nepal. The most beautiful girl in this town"
 author_profile: true
 redirect_from: 
   - /about/
