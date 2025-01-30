@@ -6,6 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+👋 Hi readers!
+
+First of all, Let's me introduce myself.
+
+My name is Kwinyarut Poungsangthanakul, but you can call me "Pal" for short. I am a student currently studying Computer Engineering in the International program at KMUTT, located in Bangkok, Thailand.
+
+I am excited to share with you all the knowledge and insights that I have gained through my classes and self-learning. I believe that with this blog, I can offer you a comprehensive summary of various topics related to Computer Engineering.
+
+Incase if you have any questions or suggestions, please feel free to leave a comment and I will get back to you as soon as possible.
+
+Thank you all readers for taking your time to read my blog and hope you enjoyed !
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
