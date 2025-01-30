@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "YKwinyarut Test"
 title_separator          : "-"
 name                     : &name "Kwinyarut"
 description              : &description "personal description"
